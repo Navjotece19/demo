@@ -1,1 +1,1 @@
-{ "cmd" : "echo navjot" }
+{ "cmd" : "npm install && npm test" }
